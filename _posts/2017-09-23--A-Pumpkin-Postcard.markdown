@@ -4,7 +4,7 @@ title:  What makes something absurd?
 date:   2017-09-23 11:42:00 -0400
 ---
 I was browsing reddit yesterday when I came across a photo of a postcard. It had a pumpkin juxtaposed over a shoreline:
-<img src="https://i.redd.it/v74qe1r1agnz.jpg" />
+<img src="https://i.redd.it/v74qe1r1agnz.jpg" max-width="100%"/>
 I found it odd, what was it about the composition of this postcard that made it absurd? What is it that makes an absurd piece absurd?
 I thought to myself: Was it the non sequitur logic between the elements?
 But then I realized that absurd art can have a certain logic to it, and that art can make no logical sense, but still not be absurd.
