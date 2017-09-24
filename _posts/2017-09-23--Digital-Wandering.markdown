@@ -15,6 +15,6 @@ just had an interest in reading Japanese novels beforehand, but it was his compa
 
 After thinking about it some more, I think the probablity of finding the REALLY interesting stuff comes from going on the smaller niche hobby forums, and taking part in them. Just about any time I have had anything that really 
 stuck out to me as being really rewarding, it has been in that exact situation, I'm in a niche place and I find someone / something cool. I could probably cut out all the memetic studies, fluff, and ego stroking political 
-content, and just do the weird niche stuff... And I'd probably be better off.
+content, and just do the weird niche stuff.... And I'd probably be better off.
 
 But who knows where the next serendipitous thing will come from. It always seems to be the oddest places.
